@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Colores y layouts</string>
+    <string name="box_one">Recuadro Uno</string>
+    <string name="box_two">Recuadro Dos</string>
+    <string name="box_three">Recuadro Tres</string>
+    <string name="box_four">Recuadro Cuatro</string>
+    <string name="box_five">Recuadro Cinco</string>
+    <string name="how_to_play">Como jugar:</string>
+    <string name="tap_the_boxes_and_buttons">Tocar recuadros y botones.</string>
+
+    <string name="button_red">Rojo</string>
+    <string name="button_yellow">Amarillo</string>
+    <string name="button_green">Verde</string>
+</resources>
